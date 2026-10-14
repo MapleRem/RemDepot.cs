@@ -53,6 +53,10 @@ namespace ShopSystem.Api.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateProduct(int id, Product updated)
         {
+<<<<<<< HEAD
+=======
+            if (id != updated.Id) return BadRequest();
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
             _context.Entry(updated).State = EntityState.Modified;
             await _context.SaveChangesAsync();
             return NoContent();

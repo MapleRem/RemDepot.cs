@@ -5,11 +5,18 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Controllers
 // Controllers configured to accept string values for enums (e.g., "Customer", "Dev")
+<<<<<<< HEAD
 // Controllers with circular reference handling for EF navigation properties
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
         options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+=======
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.Converters.Add(new System.Text.Json.Serialization.JsonStringEnumConverter());
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
     });
 
 // Swagger (interactive API docs at /swagger)

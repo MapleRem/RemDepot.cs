@@ -105,6 +105,7 @@ C:\Users\spectral\Downloads\ShopSystem.Api\obj\Debug\net8.0\refint\ShopSystem.Ap
 C:\Users\spectral\Downloads\ShopSystem.Api\obj\Debug\net8.0\ShopSystem.Api.pdb
 C:\Users\spectral\Downloads\ShopSystem.Api\obj\Debug\net8.0\ShopSystem.Api.genruntimeconfig.cache
 C:\Users\spectral\Downloads\ShopSystem.Api\obj\Debug\net8.0\ref\ShopSystem.Api.dll
+<<<<<<< HEAD
 C:\Users\spectral\Downloads\RemDepot.cs-main\bin\Debug\net8.0\appsettings.json
 C:\Users\spectral\Downloads\RemDepot.cs-main\bin\Debug\net8.0\ShopSystem.Api.staticwebassets.endpoints.json
 C:\Users\spectral\Downloads\RemDepot.cs-main\bin\Debug\net8.0\ShopSystem.Api.exe
@@ -233,3 +234,5 @@ C:\Users\spectral\Downloads\RemDepot.cs-main\bin\Debug\net8.0\runtimes\win-x64\n
 C:\Users\spectral\Downloads\RemDepot.cs-main\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
 C:\Users\spectral\Downloads\RemDepot.cs-main\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\spectral\Downloads\RemDepot.cs-main\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727

@@ -2,7 +2,10 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ShopSystem.Api.Models
 {
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
     // Represents Customer, Seller, Admin, or Courier — distinguished by Role.
     public class User
     {
@@ -18,9 +21,15 @@ namespace ShopSystem.Api.Models
         public string PhoneNumber { get; set; } = string.Empty;
 
         [Required]
+<<<<<<< HEAD
         public string Password { get; set; } = string.Empty;
 
         public string Role { get; set; } = "Customer"; // Default to Customer
+=======
+        public string PasswordHash { get; set; } = string.Empty;
+
+        public UserRole Role { get; set; } = UserRole.Customer;
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 

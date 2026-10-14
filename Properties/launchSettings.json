@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "$schema": "https://json.schemastore.org/launchsettings.json",
+=======
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
   "profiles": {
     "http": {
       "commandName": "Project",

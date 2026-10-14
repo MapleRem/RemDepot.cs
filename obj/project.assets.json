@@ -11,6 +11,7 @@
           "lib/netstandard2.1/BCrypt-Net-Next.dll": {}
         }
       },
+<<<<<<< HEAD
       "BouncyCastle.Cryptography/2.6.2": {
         "type": "package",
         "compile": {
@@ -37,6 +38,8 @@
           }
         }
       },
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -50,6 +53,7 @@
           }
         }
       },
+<<<<<<< HEAD
       "K4os.Compression.LZ4/1.3.8": {
         "type": "package",
         "compile": {
@@ -94,6 +98,8 @@
           }
         }
       },
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "type": "package",
         "compile": {
@@ -665,6 +671,7 @@
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
         }
       },
+<<<<<<< HEAD
       "MySql.Data/26.7.0": {
         "type": "package",
         "dependencies": {
@@ -708,6 +715,8 @@
           }
         }
       },
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
       "MySqlConnector/2.3.5": {
         "type": "package",
         "dependencies": {
@@ -938,6 +947,7 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+<<<<<<< HEAD
       "System.Configuration.ConfigurationManager/10.0.8": {
         "type": "package",
         "dependencies": {
@@ -988,6 +998,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0/System.IO.Pipelines.dll": {
+=======
+      "System.IO.Pipelines/6.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/_._": {
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
             "related": ".xml"
           }
         },
@@ -1035,6 +1051,7 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+<<<<<<< HEAD
       "System.Security.Cryptography.ProtectedData/10.0.8": {
         "type": "package",
         "compile": {
@@ -1070,6 +1087,8 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
       "System.Text.Encoding.CodePages/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -1151,6 +1170,7 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+<<<<<<< HEAD
       },
       "System.Windows.Extensions/10.0.8": {
         "type": "package",
@@ -1179,6 +1199,8 @@
         "runtime": {
           "lib/net8.0/ZstdSharp.dll": {}
         }
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
       }
     }
   },
@@ -1208,6 +1230,7 @@
         "readme.md"
       ]
     },
+<<<<<<< HEAD
     "BouncyCastle.Cryptography/2.6.2": {
       "sha512": "7oWOcvnntmMKNzDLsdxAYqApt+AjpRpP2CShjMfIa3umZ42UQMvH0tl1qAliYPNYO6vTdcGMqnRrCPmsfzTI1w==",
       "type": "package",
@@ -1251,6 +1274,8 @@
         "lib/netstandard2.0/Google.Protobuf.xml"
       ]
     },
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
     "Humanizer.Core/2.14.1": {
       "sha512": "lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "type": "package",
@@ -1269,6 +1294,7 @@
         "logo.png"
       ]
     },
+<<<<<<< HEAD
     "K4os.Compression.LZ4/1.3.8": {
       "sha512": "LhwlPa7c1zs1OV2XadMtAWdImjLIsqFJPoRcIWAadSRn0Ri1DepK65UbWLPmt4riLqx2d40xjXRk0ogpqNtK7g==",
       "type": "package",
@@ -1332,6 +1358,8 @@
         "lib/netstandard2.1/K4os.Hash.xxHash.xml"
       ]
     },
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
       "sha512": "UcSjPsst+DfAdJGVDsu346FX0ci0ah+lw3WRtn18NUwEqRt70HaOQ7lI72vy3+1LxtqI3T5GWwV39rQSrCzAeg==",
       "type": "package",
@@ -2486,6 +2514,7 @@
         "mono.texttemplating.nuspec"
       ]
     },
+<<<<<<< HEAD
     "MySql.Data/26.7.0": {
       "sha512": "WXk00B5N6TnuTU0SVRFxMAr2nfLj+4T6gY1NPeDdtj8cwy2Rk5v4GIUK9oSiTSMntEdrKeaYG4eyYPjZun7D7w==",
       "type": "package",
@@ -2521,6 +2550,8 @@
         "runtimes/win-x64/native/krbcc64.dll"
       ]
     },
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
     "MySqlConnector/2.3.5": {
       "sha512": "AmEfUPkFl+Ev6jJ8Dhns3CYHBfD12RHzGYWuLt6DfG6/af6YvOMyPz74ZPPjBYQGRJkumD2Z48Kqm8s5DJuhLA==",
       "type": "package",
@@ -2843,6 +2874,7 @@
         "useSharedDesignerContext.txt"
       ]
     },
+<<<<<<< HEAD
     "System.Configuration.ConfigurationManager/10.0.8": {
       "sha512": "QG+HHwJjLyUiRuA9axr5pDqHAxboo7FXCTRakxMABE9CUAUij/tsd/MsgQPJUEppkf+YBLT+F/P/wKIVCAIcNg==",
       "type": "package",
@@ -2910,6 +2942,8 @@
         "useSharedDesignerContext.txt"
       ]
     },
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
     "System.IO.Pipelines/6.0.3": {
       "sha512": "ryTgF+iFkpGZY1vRQhfCzX0xTdlV3pyaTTqRu2ETbEv+HlV7O6y7hyQURnghNIXvctl5DuZ//Dpks6HdL/Txgw==",
       "type": "package",
@@ -2983,6 +3017,7 @@
         "useSharedDesignerContext.txt"
       ]
     },
+<<<<<<< HEAD
     "System.Security.Cryptography.ProtectedData/10.0.8": {
       "sha512": "/ldVgSfImIBp6fLWS7sLH0BnmtFj0ZwGlZo4Xx2q0K3ZhJNDbW45kj2f6zPoC+L+BTINuHdMzTsopuwmkbgcNA==",
       "type": "package",
@@ -3046,6 +3081,8 @@
         "useSharedDesignerContext.txt"
       ]
     },
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
     "System.Text.Encoding.CodePages/6.0.0": {
       "sha512": "ZFCILZuOvtKPauZ/j/swhvw68ZRi9ATCfvGbk1QfydmcXBkIWecWKn/250UH7rahZ5OoDBaiAudJtPvLwzw85A==",
       "type": "package",
@@ -3219,6 +3256,7 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
+<<<<<<< HEAD
     },
     "System.Windows.Extensions/10.0.8": {
       "sha512": "4hnHSbtc1FP91qiOsweSa/3My/tkKAU9WcUyCZNSUPhfNyFtIhTl9qEPaSK2g4XzTMaq4huRerF6tSV9q44Cnw==",
@@ -3266,13 +3304,18 @@
         "zstdsharp.port.0.8.8.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "BCrypt.Net-Next >= 4.2.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.8",
+<<<<<<< HEAD
       "MySql.Data >= 26.7.0",
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
       "Pomelo.EntityFrameworkCore.MySql >= 8.0.2",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
@@ -3283,11 +3326,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\spectral\\Downloads\\RemDepot.cs-main\\ShopSystem.Api.csproj",
       "projectName": "ShopSystem.Api",
       "projectPath": "C:\\Users\\spectral\\Downloads\\RemDepot.cs-main\\ShopSystem.Api.csproj",
       "packagesPath": "C:\\Users\\spectral\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\spectral\\Downloads\\RemDepot.cs-main\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\spectral\\Downloads\\ShopSystem.Api\\ShopSystem.Api.csproj",
+      "projectName": "ShopSystem.Api",
+      "projectPath": "C:\\Users\\spectral\\Downloads\\ShopSystem.Api\\ShopSystem.Api.csproj",
+      "packagesPath": "C:\\Users\\spectral\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\spectral\\Downloads\\ShopSystem.Api\\obj\\",
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spectral\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3332,10 +3383,13 @@
             "target": "Package",
             "version": "[8.0.8, )"
           },
+<<<<<<< HEAD
           "MySql.Data": {
             "target": "Package",
             "version": "[26.7.0, )"
           },
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
           "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
             "version": "[8.0.2, )"
@@ -3356,6 +3410,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+<<<<<<< HEAD
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
@@ -3374,6 +3429,8 @@
             "version": "[8.0.32, 8.0.32]"
           }
         ],
+=======
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -3382,7 +3439,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 8caedb5eb067c4e0230142c6e64fe678a6dc5727
       }
     }
   }
